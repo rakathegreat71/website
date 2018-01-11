@@ -1,0 +1,26 @@
+.jumbotron{
+  padding: 6rem 0;
+  background-color: #fff;
+  background: url("img/banjo.jpg") bottom center no-repeat ;
+  background-size: cover;
+}
+.jumbotron .container{
+  max-width: 40rem;
+  color: white;
+  padding: 2rem;
+  background: rgba(255,255,255,.2);
+  /*max-height: 80rem;*/
+}
+
+.jumbotron p{
+  color: white;
+
+}
+.jumbotron-heading{
+  font-weight: 300;
+}
+.content{
+  padding-left: 2.5rem;
+  padding-right: 2.5rem; 
+
+}
